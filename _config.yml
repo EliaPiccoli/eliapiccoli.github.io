@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Elia Piccoli"
 title_separator          : "-"
 name                     : &name "Elia Piccoli"
-description              : &description "PhD Student at University of Pisa"
+description              : &description "PhD in Computer Science"
 url                      : https://eliapiccoli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EliaPiccoli/eliapiccoli.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Elia Piccoli"
   avatar           : "foto.jpg"
-  bio              : "PhD Student in Computer Science"
-  location         : "Pisa, Italy"
+  bio              : "PhD in Computer Science"
+  location         : "Italy - Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-TKxJbro74UC"
-  email            : "elia.piccoli@phd.unipi.it"
+  email            : "e.piccoli19@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
